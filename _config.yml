@@ -28,7 +28,7 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: _Your greeting_  
+  title:  
   text: _Your detailed greeting text_
 # - displayed at the bottom
 closing-head: _Your closing_
@@ -38,6 +38,7 @@ closing-para: _Your detailed closing_
 social:
   twitter: https://twitter.com/ola_sokolek
   github: https://github.com/ola-sk
+  # medium: 
   # linkedin-square: https://linkedin.com/in/_username_
   # facebook-official: https://facebook.com/_username_
   # google-plus-square: https://plus.google.com/u/0/+_username_
@@ -46,7 +47,7 @@ social:
   #instagram:
   #youtube-square:
   #spotify:
-  stack-overflow: https://askubuntu.com/users/911538/ola
+  stack-overflow: https://stackoverflow.com/users/9548903/ola
   #vimeo:
   #reddit:
   #stubleupon:
